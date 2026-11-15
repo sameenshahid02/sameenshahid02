@@ -2,7 +2,7 @@
 <h1>Sameen Shahid</h1>
 
 <div align="center">
-  <img src="photo (2).jpeg" alt="sameen" width="400">
+  <img src="photo (2).jpeg" alt="sameen" width="210">
 </div>
 
 <br>
